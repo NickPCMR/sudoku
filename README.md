@@ -8,3 +8,10 @@ in the console. This solution includes a solve() function to score extra credit.
 To run the file type the below command into the command line while in the working directory:
 
 $ python3 sudoku.py
+
+
+Commands:
+exit (closes the program)
+solve (solves the board)
+check (checks to see if board has been solved)
+try (prompts the user for number input)
