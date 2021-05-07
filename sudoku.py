@@ -1,8 +1,7 @@
 # Nick Osborne
 # CS325_400, W2021
 # 3/8/21
-# Portfolio project
-# I included a solve() function to get the part A extra credit
+# Sudoku
 
 import os
 import copy
